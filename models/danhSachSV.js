@@ -3,3 +3,7 @@ var DanhSachSinhVien = function(){
         console.log('cap nhat danh sach sinh vien');
     }
 }
+var danhsachhocsinh=function(){
+
+    
+}
