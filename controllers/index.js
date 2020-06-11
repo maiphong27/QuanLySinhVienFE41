@@ -57,3 +57,4 @@ promise.then(renderCard).catch(function (error) {
 console.log("hello fe 41")
 
 
+var a=1;
