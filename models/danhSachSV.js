@@ -6,4 +6,12 @@ var DanhSachSinhVien = function(){
 var danhsachhocsinh=function(){
 
     
+    this.hienThiThongTinSv = function(){
+        console.log('Hien thi Thong Tin Sinh Vien');
+    }
+}
+var hocsinh=function(){
+    this.capNhatSinhVien=function(){
+        console.log('Hien thi cap nhat');
+    }
 }
